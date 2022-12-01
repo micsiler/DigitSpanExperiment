@@ -1,9 +1,9 @@
-#Code Adapted from https://github.com/tadorfer/digit-span-test/blob/master/digitspantest_fw.py
-#Addded sets instead of increasing digits
-#Added name functionality
-#Added database transfer
+#Code Template from https://github.com/tadorfer/digit-span-test/blob/master/digitspantest_fw.py
+#Addded sets instead of increasing digits (removed difficulty)
+#Added get name functionality 
+#Added text file transfer (transfers scores and user/generated outputs to separate txt files)
 
-import tkinter as tk     
+import tkinter as tk
 import random
 
 
@@ -66,7 +66,7 @@ def startTest(*args):
                                                         text='Next', 
                                                         justify='c')
                 canvas.after(1200, delete)
-            else:
+            else: #Wrong input conditons
                 FAILURES += 1
                 canvas.create_text(Width/2, Height/2.3, fill='darkblue', 
                                                         font='calibre 26', 
@@ -74,7 +74,7 @@ def startTest(*args):
                                                         justify='c')
                 canvas.after(1200, delete)
 
-            if DIGITS == 9: #Change this to to go past the eight trials (not have to add more words in num)
+            if DIGITS == 9: #Change this to to go past the eight trials (note: have to add more words in num)
                 canvas.delete('all')
                 canvas.create_text(Width/2, Height/2.3, fill='darkblue', font='calibre 26', text='Thank you for your participation!', justify='c')
 

@@ -1,0 +1,12 @@
+RecordedDate,Q1,Q2,Q24,Q26,Q31
+Recorded Date,What is your name? (put the same name as you did for the test),For the FIRST HALF of the experiment did you have your phone with you?,"During the FIRST HALF of the experiment, how often did you think of your phone?","During the SECOND HALF of the experiment, how often did you think of your phone?",What is your average screen time per day? If you have an app on your phone that tracks screen time please use that. If not then give your best estimate.
+"{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID26""}","{""ImportId"":""QID31""}"
+2022-11-30 08:08:04,Michael,Yes,None at all,A little,4 hours
+2022-11-30 12:04:08,Rebecca,No,None at all,A little,6 hours
+2022-11-30 12:16:39,Jake,Yes,None at all,A little,>10 hours
+2022-11-30 12:26:56,Selina,No,None at all,A little,7 hours
+2022-11-30 12:37:57,Sydney,No,None at all,A little,3 hours
+2022-11-30 12:48:11,Sarai,Yes,A little,None at all,6 hours
+2022-12-01 14:59:20,Dylan,No,A moderate amount,A little,>10 hours
+2022-12-01 15:00:22,Karla,Yes,None at all,None at all,8 hours
+2022-12-01 15:01:03,Daniel,No,A little,None at all,6 hours

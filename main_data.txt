@@ -1,0 +1,11 @@
+subject phone nophone first usage
+Michael 0.47 0.58 phone 4
+Rebecca 0.63 0.58 nophone 6
+jake 0.63 0.53 phone 10
+Selina 0.74 0.79 nophone 7
+Sydney 0.74 0.79 nophone 3
+sarai 0.53 0.53 phone 6
+Dylan 0.54 0.63 nophone 10
+karla 0.64 0.67 phone 8
+Daniel 0.47 0.55 nophone 6
+
